@@ -1,0 +1,10 @@
+* Workflow with multi queries
+** Usage
+*** Trigger with keywords
+Input: **url sports,2020-09-23**
+
+*** Example
+#+caption: Usage
+#+attr_html: :width 400 px
+#+attr_html: :height 200 px
+[[./example.png]]
