@@ -1,7 +1,7 @@
 * Workflow with multi queries
 ** Usage
 *** Trigger with keywords
-Input: **url sports,2020-09-23**
+Input: *url sports,2020-09-23*
 
 *** Example
 #+caption: Usage
